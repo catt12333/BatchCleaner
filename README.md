@@ -1,4 +1,4 @@
-Warning! Script created for Windows 11. Using for Windows 10 or bolew is dangerous!
+Warning! Script created for Windows 11. Using for Windows 10 or below is dangerous!
 
 How to use:
 
