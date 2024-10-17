@@ -13,6 +13,7 @@ echo 1 - Disable Hibernation
 echo 2 - Priority for Games
 set /p select=Select number: 
 if %select%==1 goto reg1
+if %select%==2 goto reg2
 
 :reg1
 cd Regedit
