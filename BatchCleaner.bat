@@ -1,7 +1,7 @@
 @echo off
-title BatchCleaner by X_koteczek_X (NoRelease 0.1.0)
+title BatchCleaner by X_koteczek_X (NoRelease 0.1.1)
 
-echo BatchCleaner (NoRelease 0.1.0)
+echo BatchCleaner (NoRelease 0.1.1)
 echo.
 echo 1 - Regedit
 set /p select=Select number: 
